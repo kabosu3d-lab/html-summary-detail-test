@@ -1,5 +1,5 @@
-# html-table-menu-test
-My experimental implementation of table menu with AngularJS, TypeScript and SCSS.
+# html-summary-detail-test
+My experimental implementation of summary-detail app with AngularJS, TypeScript and SCSS.
 
 ## Setup
 ```sh
@@ -13,10 +13,10 @@ npm start
 
 ## Demo
 
-https://kabosusoba-lab.github.io/html-table-menu-test/
+https://kabosusoba-lab.github.io/html-summary-detail-test/
 
 ## Reference
 
--
 - https://github.com/philipwalton/solved-by-flexbox
+- https://pixabay.com/
 - http://publicicons.org/
