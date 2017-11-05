@@ -1,5 +1,5 @@
 # html-summary-detail-test
-My experimental implementation of summary-detail app with AngularJS, TypeScript and SCSS.
+My experimental implementation of summary-detail app with AngularJS and SCSS.
 
 ## Setup
 ```sh
